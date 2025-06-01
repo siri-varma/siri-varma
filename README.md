@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+https://www.holopin.io/@sirivarma#badges
+
+[![@sirivarma's Holopin board](https://holopin.me/sirivarma)](https://holopin.io/@sirivarma#badges)
