@@ -19,9 +19,12 @@ I'm a cloud-native enthusiast with a passion for building scalable, secure, and 
 
 - [These Kubernetes mistakes will make you an easy target for hackers](https://www.cncf.io/blog/2025/04/22/these-kubernetes-mistakes-will-make-you-an-easy-target-for-hackers)
 - [Hardening Kubernetes Security with DevSecOps Practices](https://cloudnativenow.com/topics/cloudnativedevelopment/kubernetes/hardening-kubernetes-security-with-devsecops-practices/)
-- [Processing One Million Data Points with Dapr](https://www.youtube.com/watch?v=npADn-TcBTY)
+- [Dapr Dev Day 2024 - Processing One Million Data Points with Dapr](https://www.youtube.com/watch?v=npADn-TcBTY)
 - [Leveraging Argo Events and Workflows for Data Ingestion](https://www.youtube.com/watch?v=16Hq_nuCNZA)
 - [Analyzing Network Telemetry with OTel](https://sirivarma.hashnode.dev/developer-week-conf-analyzing-network-telemetry-from-otel)
+- [Deep Dive into Cloud Native Dapr Building Blocks](https://youtu.be/s_WQrjjIEyw?t=19292)
+- [KCD Ghana - Argo Workflows and Events](https://community.cncf.io/events/details/cncf-kcd-ghana-presents-kcd-accra-2024/)
+- [Multi Cloud Observability using OTel](https://sirivarma.hashnode.dev/software-arch-live-conf-multi-cloud-observability-using-otel)
 
 ## Organizer
 
