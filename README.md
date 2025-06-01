@@ -37,7 +37,7 @@ I'm a cloud-native enthusiast with a passion for building scalable, secure, and 
 ## 📚 Recent Talks & Publications
 
 - **DeveloperWeek 2025**: *Building a Network Telemetry Platform to Minimize Security Threats* – Discussed strategies for proactive cloud security. :contentReference[oaicite:15]{index=15}
-- **[Your Blog/Medium]**: *Implementing Zero Trust in Kubernetes Clusters* – A deep dive into securing containerized applications.
+- **[DZone](https://dzone.com/authors/sirivarma)**
 
 ## 🛠️ Tech Stack
 
