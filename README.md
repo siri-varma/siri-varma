@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![DevStats Card](https://devstats.me/?username=siri-varma)](https://github.com/siri-varma/devstats-card)
 
 [![@sirivarma's Holopin board](https://holopin.me/sirivarma)](https://holopin.io/@sirivarma)
