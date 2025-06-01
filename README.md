@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm [Siri Varma Vegiraju] — Cloud Native Engineer | CNCF Advocate | OSS Contributor
+# 👋 Hi, I'm Siri Varma Vegiraju — Cloud Native Engineer | CNCF Advocate | OSS Contributor
 
 ![CNCF Badge](https://img.shields.io/badge/CNCF-Contributor-blue)
 ![Dapr](https://img.shields.io/badge/Dapr-Dev-blue)
