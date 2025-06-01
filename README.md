@@ -26,7 +26,7 @@ I'm a cloud-native enthusiast with a passion for building scalable, secure, and 
 - [KCD Ghana - Argo Workflows and Events](https://community.cncf.io/events/details/cncf-kcd-ghana-presents-kcd-accra-2024/)
 - [Multi Cloud Observability using OTel](https://sirivarma.hashnode.dev/software-arch-live-conf-multi-cloud-observability-using-otel)
 
-## Organizer
+## CNCF Organizer
 
 - [Cloud Native Kumasi](https://community.cncf.io/cloud-native-kumasi/)
 
