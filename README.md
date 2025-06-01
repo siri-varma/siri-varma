@@ -7,6 +7,10 @@
 ![.NET](https://img.shields.io/badge/.NET-Developer-blue)
 ![DevSecOps](https://img.shields.io/badge/DevSecOps-Enabled-green)
 
+[![DevStats Card](https://devstats.me/?username=siri-varma)](https://github.com/siri-varma/devstats-card)
+
+[![@sirivarma's Holopin board](https://holopin.me/sirivarma)](https://holopin.io/@sirivarma)
+
 ## 🌐 About Me
 
 I'm a cloud-native enthusiast with a passion for building scalable, secure, and observable systems. My expertise lies in:
@@ -58,7 +62,3 @@ I'm a cloud-native enthusiast with a passion for building scalable, secure, and 
 ---
 
 *Passionate about open source and always eager to collaborate on innovative projects. Let's build the future of cloud-native together!*
-
-[![DevStats Card](https://devstats.me/?username=siri-varma)](https://github.com/siri-varma/devstats-card)
-
-[![@sirivarma's Holopin board](https://holopin.me/sirivarma)](https://holopin.io/@sirivarma)
