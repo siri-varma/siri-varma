@@ -55,9 +55,9 @@ I'm a cloud-native enthusiast with a passion for building scalable, secure, and 
 
 ## 🤝 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
-- [Blog](https://yourblog.com)
+- [LinkedIn](https://www.linkedin.com/in/sirivarma)
+- [Twitter](https://twitter.com/siri_vegiraju)
+- [Blog](https://sirivarma.hashnode.dev)
 
 ---
 
