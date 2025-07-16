@@ -23,6 +23,10 @@ I'm a cloud-native enthusiast with a passion for building scalable, secure, and 
 
 https://sessionize.com/siri-varma-vegiraju/
 
+## Place where I blog
+
+- **[DZone](https://dzone.com/authors/sirivarma)**
+
 ## CNCF Blogs & Talks
 
 - [These Kubernetes mistakes will make you an easy target for hackers](https://www.cncf.io/blog/2025/04/22/these-kubernetes-mistakes-will-make-you-an-easy-target-for-hackers)
