@@ -19,6 +19,10 @@ I'm a cloud-native enthusiast with a passion for building scalable, secure, and 
 - **Distributed Systems**: Developing real-time streaming solutions for healthcare and cloud environments.
 - **Open Source**: Active contributor to the Dapr CNCF projects and initiatives. [Approver Member for the Dapr Java SDK](https://github.com/dapr/community/blob/master/community-membership.md)
 
+## Sessionize Speaking Engagements
+
+https://sessionize.com/siri-varma-vegiraju/
+
 ## CNCF Blogs & Talks
 
 - [These Kubernetes mistakes will make you an easy target for hackers](https://www.cncf.io/blog/2025/04/22/these-kubernetes-mistakes-will-make-you-an-easy-target-for-hackers)
