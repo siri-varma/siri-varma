@@ -30,6 +30,12 @@ I'm a cloud-native enthusiast with a passion for building scalable, secure, and 
 - [KCD Ghana - Argo Workflows and Events](https://community.cncf.io/events/details/cncf-kcd-ghana-presents-kcd-accra-2024/)
 - [Multi Cloud Observability using OTel](https://sirivarma.hashnode.dev/software-arch-live-conf-multi-cloud-observability-using-otel)
 
+## Docker and Dapr Talks
+
+- [From Code to Cloud: Embedding Security in Multiple steps](https://www.youtube.com/watch?v=clH_l8GMJrA)
+- [Dapr Dev Day 2024 - Processing One Million Data Points with Dapr](https://www.youtube.com/watch?v=npADn-TcBTY)
+- [Enhancing Workflow Reliability with Dapr](https://www.conf42.com/Cloud_Native_2025_Siri_Varma_Vegiraju_workflow_dapr_failure)
+
 ## CNCF Organizer
 
 - [Cloud Native Kumasi](https://community.cncf.io/cloud-native-kumasi/)
