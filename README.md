@@ -19,7 +19,7 @@ I'm a cloud-native enthusiast with a passion for building scalable, secure, and 
 - **Distributed Systems**: Developing real-time streaming solutions for healthcare and cloud environments.
 - **Open Source**: Active contributor to the Dapr CNCF projects and initiatives. [Approver Member for the Dapr Java SDK](https://github.com/dapr/community/blob/master/community-membership.md)
 
-## Sessionize Speaking Engagements
+## Cloud & Containers Speaking Engagements
 
 https://sessionize.com/siri-varma-vegiraju/
 
