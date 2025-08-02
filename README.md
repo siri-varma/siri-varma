@@ -23,6 +23,10 @@ I'm a cloud-native enthusiast with a passion for building scalable, secure, and 
 
 https://sessionize.com/siri-varma-vegiraju/
 
+## CNCF Organizer
+
+- [Cloud Native Kumasi](https://community.cncf.io/cloud-native-kumasi/)
+
 ## Place where I blog
 
 - **[DZone](https://dzone.com/authors/sirivarma)**
@@ -43,10 +47,6 @@ https://sessionize.com/siri-varma-vegiraju/
 - [From Code to Cloud: Embedding Security in Multiple steps](https://www.youtube.com/watch?v=clH_l8GMJrA)
 - [Dapr Dev Day 2024 - Processing One Million Data Points with Dapr](https://www.youtube.com/watch?v=npADn-TcBTY)
 - [Enhancing Workflow Reliability with Dapr](https://www.conf42.com/Cloud_Native_2025_Siri_Varma_Vegiraju_workflow_dapr_failure)
-
-## CNCF Organizer
-
-- [Cloud Native Kumasi](https://community.cncf.io/cloud-native-kumasi/)
 
 ## 📚 Recent Talks & Publications
 
