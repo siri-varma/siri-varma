@@ -11,7 +11,7 @@
 
 [![@sirivarma's Holopin board](https://holopin.me/sirivarma)](https://holopin.io/@sirivarma)
 
-![CNCF Contributor Card](https://contribcard.cncf.io/siri-varma)
+[CNCF Contributor Card](https://contribcard.cncf.io/siri-varma)
 
 ## 🌐 About Me
 
