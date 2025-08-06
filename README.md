@@ -2,6 +2,7 @@
 
 # 👋 Hi, I'm Siri Varma Vegiraju — Cloud Native Engineer | CNCF & Docker Advocate | OSS Contributor
 
+![CNCF Contributor Card](https://contribcard.cncf.io/siri-varma)
 ![CNCF Badge](https://img.shields.io/badge/CNCF-Contributor-blue)
 ![Dapr](https://img.shields.io/badge/Dapr-Dev-blue)
 ![.NET](https://img.shields.io/badge/.NET-Developer-blue)
