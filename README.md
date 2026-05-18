@@ -48,7 +48,12 @@ https://sessionize.com/siri-varma-vegiraju/
 
 ## Docker and Dapr Talks
 
+2026 Begin
+- [Platform Con Talk on Dapr. Talk will be released in June](https://platformcon.com/)
+
+2025 End
 - [Dapr and LLM talk](https://live360events.com/events/orlando-2025/speakers/speaker%20window.aspx?SpeakerId=%7B8C737BA5-27F7-4CD1-B235-BCBB48C3196D%7D&ID=%7B152DF1AF-3B7A-4FA2-8B17-BED63F649419%7D)
+- 
 - [From Code to Cloud: Embedding Security in Multiple steps](https://www.youtube.com/watch?v=clH_l8GMJrA)
 - [Dapr Dev Day 2024 - Processing One Million Data Points with Dapr](https://www.youtube.com/watch?v=npADn-TcBTY)
 - [Enhancing Workflow Reliability with Dapr](https://www.conf42.com/Cloud_Native_2025_Siri_Varma_Vegiraju_workflow_dapr_failure)
