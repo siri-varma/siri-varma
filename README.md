@@ -32,9 +32,11 @@ https://sessionize.com/siri-varma-vegiraju/
 ## Place where I blog
 
 - **[DZone](https://dzone.com/authors/sirivarma)**
+- **[Cloud Native Now](https://cloudnativenow.com/author/siri-varma-vegiraju/)*
 
 ## CNCF Blogs & Talks
 
+- [Conversing with Large Language Models using Dapr](https://www.cncf.io/blog/2026/02/04/conversing-with-large-language-models-using-dapr/)
 - [These Kubernetes mistakes will make you an easy target for hackers](https://www.cncf.io/blog/2025/04/22/these-kubernetes-mistakes-will-make-you-an-easy-target-for-hackers)
 - [Hardening Kubernetes Security with DevSecOps Practices](https://cloudnativenow.com/topics/cloudnativedevelopment/kubernetes/hardening-kubernetes-security-with-devsecops-practices/)
 - [Dapr Dev Day 2024 - Processing One Million Data Points with Dapr](https://www.youtube.com/watch?v=npADn-TcBTY)
@@ -46,6 +48,7 @@ https://sessionize.com/siri-varma-vegiraju/
 
 ## Docker and Dapr Talks
 
+- [Dapr and LLM talk](https://live360events.com/events/orlando-2025/speakers/speaker%20window.aspx?SpeakerId=%7B8C737BA5-27F7-4CD1-B235-BCBB48C3196D%7D&ID=%7B152DF1AF-3B7A-4FA2-8B17-BED63F649419%7D)
 - [From Code to Cloud: Embedding Security in Multiple steps](https://www.youtube.com/watch?v=clH_l8GMJrA)
 - [Dapr Dev Day 2024 - Processing One Million Data Points with Dapr](https://www.youtube.com/watch?v=npADn-TcBTY)
 - [Enhancing Workflow Reliability with Dapr](https://www.conf42.com/Cloud_Native_2025_Siri_Varma_Vegiraju_workflow_dapr_failure)
